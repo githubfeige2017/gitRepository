@@ -9,3 +9,5 @@ add  meger
 add dev
 add one message by dev to master
 add two message by dev
+hard working
+dev working
